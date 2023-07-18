@@ -1,0 +1,3 @@
+/home/shanes/c++/upDownShooter/build/CMakeFiles/UpDownShooter.dir
+/home/shanes/c++/upDownShooter/build/CMakeFiles/edit_cache.dir
+/home/shanes/c++/upDownShooter/build/CMakeFiles/rebuild_cache.dir

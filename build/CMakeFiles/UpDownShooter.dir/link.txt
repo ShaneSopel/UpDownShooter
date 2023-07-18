@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -rdynamic CMakeFiles/UpDownShooter.dir/Game.cpp.o CMakeFiles/UpDownShooter.dir/GameObject.cpp.o CMakeFiles/UpDownShooter.dir/Main.cpp.o CMakeFiles/UpDownShooter.dir/TextureManager.cpp.o -o UpDownShooter  -lSDL2 -lSDL2_image 
